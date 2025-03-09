@@ -1,0 +1,1 @@
+In this method, various parameters of different algorithms are converted into models and r2 score value has been calculated for comparing the algorithms and finding the best accurate algorithm of the dataset

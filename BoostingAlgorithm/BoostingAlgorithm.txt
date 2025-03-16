@@ -1,0 +1,1 @@
+Combining multiple weak learning algorithm to improve prediction accuracy is called as boosting algorithm.
